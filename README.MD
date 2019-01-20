@@ -3,9 +3,9 @@
   list<?>数据导出到excel
 
 ### 说明
-  List<?> 要导出的数据
+  List<?>： 要导出的数据
   
-  String filed  json字符串， headers表头，可以多个，headersOrder 对应对象对属性
+  String filed：  json字符串， headers表头，可以多个，headersOrder 对应对象对属性
 	{
     "headers":[
 		"截止时间"
