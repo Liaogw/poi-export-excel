@@ -1,0 +1,28 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+.factorypath
+
+# Intellij project files
+*.iml
+.idea/
+
+# sts
+.springBeans
+
+# maven
+overlays/
+target/
+
+# Others
+logs/
+dlongLogs/
+.svn/
+/build/
+/bin
+.externalToolBuilders/
+/target/
+/target/
+/target/
+.flattened-pom.xml
